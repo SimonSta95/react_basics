@@ -1,0 +1,16 @@
+.articleContainer {
+    justify-content: center;
+    margin: 20px;
+    padding: 50px;
+    background-color: white;
+    color:black;
+    border-radius: 25px;
+    box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.5);
+    max-width: 600px;
+}
+
+.articleImg {
+    margin: auto;
+    width: 100%;
+    border-radius: 15px;
+}
